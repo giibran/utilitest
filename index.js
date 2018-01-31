@@ -1,5 +1,5 @@
 const sinon = require('sinon');
-const configureMockStore = require('redux-mock-store').default;
+const configureMockStore = require('redux-mock-store');
 const proxyquire = require('proxyquire');
 const thunk = require('redux-thunk').default;
 

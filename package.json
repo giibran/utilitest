@@ -1,6 +1,6 @@
 {
   "name": "utilitest",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "Library to provide utilities test",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "sinon": "^1.17.4",
-    "redux-mock-store": "^1.1.2",
+    "redux-mock-store": "^1.4.0",
     "proxyquire": "^1.7.10",
-    "redux-mock-store": "^1.1.2",
     "redux": "^3.5.2",
     "redux-thunk": "^2.1.0"
   }
