@@ -1,6 +1,6 @@
 {
   "name": "utilitest",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Library to provide utilities test",
   "main": "index.js",
   "scripts": {
